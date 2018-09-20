@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac4277de-832f-402b-9a32-2a66ad16515b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/.idea/fang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/.idea/fang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fang/spiders/sfw_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/fangtianxia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/fang/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/matplotlib/01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/matplotlib/sandian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/一、urllib库/1.1.urlopen函数用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/一、urllib库/1.2.urlretrieve函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/一、urllib库/1.3.参数编码和解码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/一、urllib库/1.4.urlparse和urlsplit函数用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/一、urllib库/1.5.request爬去拉钩网.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/一、urllib库/1.6.ProxtHandler的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/.idea/qsbk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/duanzi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/qsbk/spiders/qsbk_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/七、Scrapy框架/qsbk/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/三、豆瓣电影和电影天堂/3.1.豆瓣电影.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/三、豆瓣电影和电影天堂/3.2.电影天堂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/.idea/bmx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/bmx/spiders/bmx5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、汽车之家/bmx/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/九、登录豆瓣网/douban_login/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/二、requests库/2.1.get请求.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/二、requests库/2.2.post请求.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/二、requests库/2.3.使用代理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/二、requests库/2.4.处理cookie信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/五、多线程爬取/5.1.threading模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/五、多线程爬取/5.2.生产者和消费者.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/五、多线程爬取/5.3.下载表情包(不用多线程).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/五、多线程爬取/5.4.利用多线程下载表情包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/.idea/wxapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/八、CrawlSpider/wxapp/wxapp/spiders/wxapp_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/六、selenium动态网页/6.1.使用selenium爬取拉勾网.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/.idea/jianshu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/jianshu/spiders/jianshu_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十、简书整站爬虫/jianshu/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/.idea/fang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/.idea/fang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/fang/spiders/sfw_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十一、分布式爬取房天下房源/fang/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十二、正则爬取猫眼电影Top00/manyantop100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/十二、正则爬取猫眼电影Top00/maoyan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/四、中国天气网和古诗文网/4.1.中国天气网.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/四、中国天气网和古诗文网/4.2.古诗文网.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/四、中国天气网和古诗文网/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/四、中国天气网和古诗文网/中国天气网/db_hd_hz_hn_xb_xn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/四、中国天气网和古诗文网/中国天气网/gang_ao_tai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/四、中国天气网和古诗文网/中国天气网/hb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/hua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/jack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/jack.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/jielun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/shu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/simhei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/Python-Spider-master/词云的制作/xin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/autohome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/boss_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/face_spider_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/.idea/fang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/.idea/fang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fang/spiders/sfw_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/fangtianxia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/fang/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/lagou2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider-project/lagou_selenium.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/beike$run.coverage" NAME="run Coverage Results" MODIFIED="1537181208218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/beike$beike_spider.coverage" NAME="beike_spider Coverage Results" MODIFIED="1536730755462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beike/spiders" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-208037269">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.139" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="14" />
+          <entry key="py" value="44" />
+          <entry key="zufang" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="6360" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="6360" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/beike/run.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/beike/items.py" />
+        <option value="$PROJECT_DIR$/zufang" />
+        <option value="$PROJECT_DIR$/beike/settings.py" />
+        <option value="$PROJECT_DIR$/beike/pipelines.py" />
+        <option value="$PROJECT_DIR$/beike/middlewares.py" />
+        <option value="$PROJECT_DIR$/beike/spiders/beike_spider.py" />
+        <option value="$PROJECT_DIR$/zufang.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="beike" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beike" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beike" type="462c0819:PsiDirectoryNode" />
+              <item name="beike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beike" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beike" type="462c0819:PsiDirectoryNode" />
+              <item name="beike" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python-Spider-master/十一、分布式爬取房天下房源/fang" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="beike_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beike" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beike/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beike/spiders/beike_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beike" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.beike_spider" />
+      <item itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.beike_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac4277de-832f-402b-9a32-2a66ad16515b" name="Default Changelist" comment="" />
+      <created>1536673315523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536673315523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1849" height="864" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13281682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20027064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32746956" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32882273" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/beike/spiders/beike_spider.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/beike/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beike/run.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1428199994/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="811" column="8" selection-start-line="811" selection-start-column="8" selection-end-line="811" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beike/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beike/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/anaconda3/envs/momonga/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/anaconda3/envs/momonga/lib/python3.6/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zufang" />
+    <entry file="file://$PROJECT_DIR$/beike/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/anaconda3/envs/momonga/lib/python3.6/site-packages/scrapy/utils/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beike/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#169#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beike/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="181" column="21" selection-start-line="163" selection-start-column="2" selection-end-line="181" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zufang.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beike/spiders/beike_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
